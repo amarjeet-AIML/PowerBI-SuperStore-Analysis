@@ -63,13 +63,13 @@ This project presents an interactive Power BI dashboard built using the Sample S
 ## Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview](01_Sales_Overview.png)
+![Sales Overview](Sales_Dashboard.png)
 
-### Profit Analysis
-![Profit Analysis](02_Profit_Analysis.png)
+### customer Analysis
+![customer Analysis](Customer_Dashboard.png)
 
-### Regional Performance
-![Regional Performance](03_Regional_Performance.png)
+### Rish&Loss managment analysis
+![Rish&Loss managment analysis](Rish&Loss_Dashboard.png)
 
 ## Files Included
 
