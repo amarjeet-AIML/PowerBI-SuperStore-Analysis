@@ -1,8 +1,8 @@
-# PowerBI-SuperStore-Analysis
+# Power BI Superstore Analysis Dashboard
 
 ## Project Overview
 
-This project presents an interactive Power BI dashboard built using the Sample Superstore dataset. The dashboard helps analyze sales performance, profitability, customer trends, regional performance, and the impact of discounts on business outcomes.
+This project presents an interactive Power BI dashboard built using the Sample Superstore dataset. The dashboard analyzes sales performance, profitability, customer behavior, and loss-making areas to support data-driven business decisions.
 
 ## Tools Used
 
@@ -14,51 +14,54 @@ This project presents an interactive Power BI dashboard built using the Sample S
 ## Dashboard Pages
 
 ### 1. Sales Overview
+
 - Total Sales
 - Total Profit
 - Total Orders
-- profit margin
+- Profit Margin
 - Sales Trend Analysis
 - Category-wise Performance
 - Segment-wise Performance
 
-### 2. customer Analysis
-- total customer
-- Repeted customer %
-- avg quantity / order
-- Profit by segment
-- top customer by profit
-- sales vs Profit Analysis
-- no. of order trand
+### 2. Customer Analysis
 
-### 3. Risk managment analysis
-- total loss
-- avg loss
-- no. of loss order
-- Discount vs Loss analysis
-- loss trand analysis
-- loss by ship mode analysis
-- loss by sub_category 
+- Total Customers
+- Repeated Customer Percentage
+- Average Quantity per Order
+- Profit by Segment
+- Top Customers by Profit
+- Sales vs Profit Analysis
+- Order Trend Analysis
+
+### 3. Risk Management Analysis
+
+- Total Loss
+- Average Loss
+- Number of Loss-Making Orders
+- Discount vs Loss Analysis
+- Loss Trend Analysis
+- Loss by Ship Mode Analysis
+- Loss by Sub-Category
 
 ## Key KPIs
 
 - Total Sales
 - Total Profit
 - Total Orders
-- Total loss
-- Average loss
-- Average discount 
+- Total Loss
+- Average Loss
+- Average Discount
 - Profit Margin
-- repeated customer %
+- Repeated Customer Percentage
 
 ## Key Insights
 
-- consumer segment generated the highest sales.
+- The Consumer segment generated the highest sales.
 - Higher discounts often reduced profitability.
-- Some sub-categories generated high sales but low profit  (like- tables,bookcase,etc).
-- Regional performance varied significantly across states.
+- Some sub-categories generated high sales but low profit, such as Tables and Bookcases.
+- Performance varied significantly across regions and states.
 - Profitability depends on both sales volume and discount strategy.
-- standerd class ship mode making highest loss (we can chsange ode of shiping)
+- Standard Class shipping mode contributed the highest overall loss, indicating an opportunity to optimize shipping strategies.
 
 ## Dashboard Screenshots
 
