@@ -68,8 +68,8 @@ This project presents an interactive Power BI dashboard built using the Sample S
 ### customer Analysis
 ![customer Analysis](Customer_Dashboard.png)
 
-### Rish&Loss managment analysis
-![Rish&Loss managment analysis](Rish&Loss_Dashboard.png)
+### Risk&Loss managment analysis
+![Risk&Loss managment analysis](Risk&Loss_Dashboard.png)
 
 ## Files Included
 
